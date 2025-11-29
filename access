@@ -1,0 +1,8 @@
+# HubSpot Private App Access Token
+# Get this from: Settings > Integrations > Private Apps
+# Required scopes: crm.objects.contacts.read, crm.objects.contacts.write,
+#                  crm.objects.deals.read, crm.objects.deals.write
+HUBSPOT_ACCESS_TOKEN=pat-na1-1244f7aa-c430-4ef4-b857-6b9439061eb9
+
+# Optional: Add your AI API key here for the frontend to use
+# OPENAI_API_KEY=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
